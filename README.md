@@ -1,6 +1,7 @@
 DevOps_Python Certifications
 
 This folder contains certificates on the following
-a. Devops course completion 
-b. Python course completion
-c. Jenkins certificate
+a. AWS academy course completion
+b. Devops course completion 
+c. Python course completion
+d. Jenkins certificate
